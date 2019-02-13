@@ -1,0 +1,227 @@
+WARNING:   Control point Pt0007 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0008 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0009 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0010 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0011 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0012 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0013 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0014 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0016 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0018 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0019 has no corresponding image measurements and will not be used 
+WARNING:   Control point Pt0021 has no corresponding image measurements and will not be used 
+
+
+                           PROJECT DATA SUMMARY
+
+PROJECT COORDINATE SYSTEM -- LSR 
+PROJECT ELLIPSOID -- WGS_84
+PROJECT UNITS FOR SRG SYSTEM -- Meters 
+SRG ORIGIN(xyz) --  202659.072  742391.951     0.000
+SRG SCALARS(xyz) --       1.000       1.000     1.000
+WARNING:   WARNING! Chi squared test was not passed. Theoretical value 28.321485, 
+Calculated value 127.078457, Degrees of freedom 14 
+
+
+                        CONVERGENCE TEST
+
+
+this iteration's weighted projected residual rms      0.690
+previous iteration's weighted projected residual rms    4.261
+percentage difference between the iterations           83.804
+
+
+                        CONVERGENCE TEST
+
+
+this iteration's weighted projected residual rms      0.193
+previous iteration's weighted projected residual rms    0.690
+percentage difference between the iterations           72.094
+
+
+                        CONVERGENCE TEST
+
+
+this iteration's weighted projected residual rms      0.193
+previous iteration's weighted projected residual rms    0.193
+percentage difference between the iterations            0.412
+Convergence detected!
+
+
+                           SOLUTION DATA SUMMARY
+
+PROJECT SOLUTION METHOD -- Absolute
+ITERATIONS -- 5
+REDUNDANCY -- 8
+EARTH CURVATURE USED -- No 
+
+
+                      IMAGE RESIDUALS REPORT (by image)
+
+                                                               Edit   Line   Sample   Line    Sample
+              Image                       Ground Point        State  Sigma  Sigma  Residual Residual
+---------------------------------- -------------------------- ------ ------ ------ -------- --------
+AR112-3575                         Pt0001                      USED   0.50   0.50    0.022   -0.073
+                         Pt0002                      USED   0.50   0.50    0.020    0.122
+                         Pt0003                      USED   0.50   0.50    0.088    0.084
+                         Pt0004                      USED   0.50   0.50    0.046   -0.018
+                         Pt0005                      USED   0.50   0.50   -0.031    0.035
+                         Pt0006                      USED   0.50   0.50   -0.042   -0.015
+                         Pt0015                      USED   0.50   0.50   -0.107   -0.107
+
+RMS residual = 9.668e-002
+
+
+
+
+                  IMAGE RESIDUALS REPORT (by ground point)
+
+                                                               Edit   Line  Sample   Line   Sample
+       Ground Point                      Image                State  Sigma  Sigma  Residual Residual
+-------------------------- ---------------------------------- ------ ------ ------ -------- --------
+Pt0001                     AR112-3575                          USED   0.50   0.50    0.022   -0.073
+
+Pt0002                     AR112-3575                          USED   0.50   0.50    0.020    0.122
+
+Pt0003                     AR112-3575                          USED   0.50   0.50    0.088    0.084
+
+Pt0004                     AR112-3575                          USED   0.50   0.50    0.046   -0.018
+
+Pt0005                     AR112-3575                          USED   0.50   0.50   -0.031    0.035
+
+Pt0006                     AR112-3575                          USED   0.50   0.50   -0.042   -0.015
+
+Pt0015                     AR112-3575                          USED   0.50   0.50   -0.107   -0.107
+
+Total RMS ==> 9.668e-002
+
+
+
+                          SENSOR PARAMETERS
+
+Image ID,        Parameter       Original       Original       Residual       Adjusted     Adjusted
+Ground Pt          Name           Value          Sigma          Value          Value        Sigma
+-------------- -------------- -------------- -------------- -------------- -------------- ----------
+AR112-3575
+   VALID PARAMETERS
+              Camera dX (m,ft)                    0.0      20.000000      264.27244      264.27244      0.2841468
+              Camera dY (m,ft)                    0.0      20.000000     -408.99854     -408.99854      0.2969634
+              Camera dZ (m,ft)                    0.0      20.000000     -74.318179     -74.318179      0.2032746
+              Attitude dOmega (deg)               0.0      5.0000000      0.5793894      0.5793894      0.0224019
+              Attitude dPhi   (deg)               0.0      5.0000000     -0.2088627     -0.2088627      0.0195642
+              Attitude dKappa (deg)               0.0      5.0000000      10.924021      10.924021      0.0066862
+
+
+                          GROUND POINT PARAMETERS
+
+Image ID,      Number    Parameter       Original       Original       Residual       Adjusted     Adjusted
+Ground Pt      Images      Name           Value          Sigma          Value          Value        Sigma
+-------------- ------  -------------- -------------- -------------- -------------- -------------- ----------
+Pt0001              1      x (XYZ Cntrl)  2.0241031400e+005         1.043e-001       4.02891e-002  2.0241035429e+005   7.964e-002
+                        y              7.4197978000e+005         1.043e-001        -2.549e-002  7.4197975451e+005   7.496e-002
+                        z              2.5301200000e+002         1.043e-001       9.88519e-004  2.5301298852e+002   1.033e-001
+
+Pt0002              1      x (XYZ Cntrl)  2.0266396800e+005         1.043e-001      -3.74662e-002  2.0266393053e+005   6.881e-002
+                        y              7.4221188100e+005         1.043e-001         6.037e-002  7.4221194137e+005   6.061e-002
+                        z              2.0119800000e+002         1.043e-001      -2.48619e-004  2.0119775138e+002   1.012e-001
+
+Pt0003              1      x (XYZ Cntrl)  2.0284471800e+005         1.043e-001       6.26922e-003  2.0284472427e+005   6.886e-002
+                        y              7.4236676100e+005         1.043e-001         6.580e-002  7.4236682680e+005   6.527e-002
+                        z              1.6622700000e+002         1.043e-001       2.70773e-002  1.6625407735e+002   9.392e-002
+
+Pt0004              1      x (XYZ Cntrl)  2.0217973800e+005         1.043e-001       2.78456e-002  2.0217976585e+005   7.463e-002
+                        y              7.4242511500e+005         1.043e-001         9.668e-003  7.4242512467e+005   8.658e-002
+                        z              2.2946700000e+002         1.043e-001      -6.74940e-003  2.2946025060e+002   1.001e-001
+
+Pt0005              1      x (XYZ Cntrl)  2.0237242400e+005         1.043e-001      -2.63408e-002  2.0237239766e+005   6.021e-002
+                        y              7.4258545400e+005         1.043e-001         3.306e-003  7.4258545731e+005   7.762e-002
+                        z              1.9971200000e+002         1.043e-001       5.59329e-003  1.9971759329e+002   9.257e-002
+
+Pt0006              1      x (XYZ Cntrl)  2.0249219800e+005         1.043e-001      -1.22056e-002  2.0249218579e+005   6.793e-002
+                        y              7.4280412100e+005         1.043e-001        -2.132e-002  7.4280409968e+005   9.958e-002
+                        z              1.7853700000e+002         1.043e-001      -2.08376e-002  1.7851616241e+002   1.002e-001
+
+Pt0015              1      x (XYZ Cntrl)  2.0313840600e+005         1.043e-001      -5.58268e-003  2.0313840042e+005   9.885e-002
+                        y              7.4208085500e+005         1.043e-001        -8.120e-002  7.4208077380e+005   7.778e-002
+                        z              1.5225000000e+002         1.043e-001      -3.79687e-003  1.5224620313e+002   1.002e-001
+
+
+RMS x     ==> 2.595e-002
+RMS y     ==> 4.747e-002
+RMS z     ==> 1.341e-002
+Total RMS ==> 5.574e-002
+
+
+                               CHECK POINT SUMMARY
+
+Ground Point                       Original       Adjusted      Ground
+Name                               Location       Location      Residual
+-------------------------------- -------------  -------------  ----------
+NO CHECK POINTS WERE FOUND
+
+
+                          ABSOLUTE CE/LE SUMMARY
+
+Ground   Circular  Linear       Ground Position in
+Point      Error    Error          Y            X            Elev.
+-------  --------  -------  -------------- -------------- ----------
+Pt0001   0.1664    0.1699   741979.755     202410.354     253.013  
+Pt0002   0.1392    0.1665   742211.941     202663.931     201.198  
+Pt0003   0.1442    0.1545   742366.827     202844.724     166.254  
+Pt0004   0.1745    0.1647   742425.125     202179.766     229.460  
+Pt0005   0.1494    0.1523   742585.457     202372.398     199.718  
+Pt0006   0.1842    0.1647   742804.100     202492.186     178.516  
+Pt0015   0.1913    0.1648   742080.774     203138.400     152.246  
+
+
+                       RELATIVE CE/LE SUMMARY
+
+Ground   Ground  Circular Linear    Absolute
+Point    Point    Error   Error     Distance
+-------  ------- -------- -------   --------
+Pt0001   Pt0002   0.1559   0.2383    347.70
+Pt0001   Pt0003   0.1963   0.2302    588.24
+Pt0001   Pt0004   0.2291   0.2350    502.08
+Pt0001   Pt0005   0.2121   0.2278    609.23
+Pt0001   Pt0006   0.2477   0.2366    831.74
+Pt0001   Pt0015   0.2542   0.2355    741.90
+Pt0002   Pt0003   0.1663   0.2250    240.62
+Pt0002   Pt0004   0.2073   0.2307    529.77
+Pt0002   Pt0005   0.1847   0.2237    473.82
+Pt0002   Pt0006   0.2322   0.2370    616.98
+Pt0002   Pt0015   0.2112   0.2313    494.69
+Pt0003   Pt0004   0.2199   0.2276    670.49
+Pt0003   Pt0005   0.1930   0.2142    521.55
+Pt0003   Pt0006   0.2134   0.2168    561.82
+Pt0003   Pt0015   0.1972   0.2122    410.21
+Pt0004   Pt0005   0.1811   0.2115    252.39
+Pt0004   Pt0006   0.2443   0.2367    493.78
+Pt0004   Pt0015   0.2637   0.2348   1021.53
+Pt0005   Pt0006   0.1981   0.2117    250.21
+Pt0005   Pt0015   0.2449   0.2261    918.54
+Pt0006   Pt0015   0.2638   0.2371    970.30
+
+
+                                                           SENSOR EXTERIOR ORIENTATION
+
+Image ID        X/Longitude     Y/Latitude      Elevation         Omega            Phi           Kappa
+AR112-3575           202464.2724     742091.0015       925.6818     0.579389351    -0.208862682   130.924021289
+
+
+                           EDITING SUMMARY
+
+             Image                           Ground               Ground   
+                                              Point             Point Type   
+----------------------------------  --------------------------  ---------- 
+NO POINTS WERE EDITED
+
+
+                           PASS/FAIL SUMMARY
+
+MAX IMAGE RMS: PASSED
+MAX XYZ RMS: PASSED
+MIN REDUNDANCY: PASSED
+Image 0 param 0: FAILED
+Image 0 param 1: PASSED
+Image 0 param 2: PASSED
+Overall Solve: FAILED
