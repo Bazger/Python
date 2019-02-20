@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f93c08aa-6fba-4d00-aae2-20f9e597fb85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/74.rep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/75.rep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Camera.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/74.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/75.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/AR112-3574.iop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/AR112-3574.ipf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/AR112-3575.iop" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/AR112-3575.ipf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/GroundPoints.gpf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/Data/rc30.cam" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/MatrixMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/SingleImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/lab4A 300488939 303062129.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab4a/lab4a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/19.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/20.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/21.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/Camera.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/Data/pointHomlog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/Data/pointHomlog2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/Data/pointModel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/Data/pointModel2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/ImagePair.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/Lab5PartA_2018_Inst.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/MatrixMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/PhotoViewer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/SingleImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5a/lab 5a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/Camera.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/Data/pointHomlog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/Data/pointHomlog2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/Data/pointModel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/Data/pointModel2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/ImagePair.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/ImageTriple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/Lab5_PartB_2018_Inst.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/MatrixMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/PhotoViewer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/SingleImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../300488939 303062129  lab5b/lab5b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30048899 303062129 lab4b/4B 2018 Inst.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30048899 303062129 lab4b/Camera.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30048899 303062129 lab4b/MatrixMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30048899 303062129 lab4b/SingleImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30048899 303062129 lab4b/lab1b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/Camera.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/Data/pointHomlog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/Data/pointHomlog2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/Data/pointModel.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/Data/pointModel2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/ImagePair.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/ImageTriple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/Lab5_PartC_2018_Inst.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/MatrixMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/PhotoViewer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/SingleImage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../__300488939 303062129  lab5C/lab5c.py" beforeDir="false" />
-    </list>
+    <list default="true" id="f93c08aa-6fba-4d00-aae2-20f9e597fb85" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,10 +31,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/topology.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2461">
+            <state relative-caret-position="-330">
               <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
@@ -103,20 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Constants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HW2.dxf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="19029" column="10" selection-start-line="19029" selection-start-column="2" selection-end-line="19029" selection-end-column="10" />
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -134,8 +65,8 @@
     <findStrings>
       <find>line</find>
       <find>pntStart</find>
-      <find>POLYLINE</find>
       <find>pntEnd</find>
+      <find>POLYLINE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,8 +78,8 @@
         <option value="$PROJECT_DIR$/Polyline.py" />
         <option value="$PROJECT_DIR$/Point.py" />
         <option value="$PROJECT_DIR$/Line.py" />
-        <option value="$PROJECT_DIR$/Constants.py" />
         <option value="$PROJECT_DIR$/topology.py" />
+        <option value="$PROJECT_DIR$/Constants.py" />
       </list>
     </option>
   </component>
@@ -231,19 +162,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550695580178</updated>
-      <workItem from="1550695581901" duration="3625000" />
+      <workItem from="1550695581901" duration="3841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3625000" />
+    <option name="totallyTimeSpent" value="3841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="155" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37944984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -253,7 +183,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35202864" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -280,13 +210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW2.dxf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="19029" column="10" selection-start-line="19029" selection-start-column="2" selection-end-line="19029" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -325,20 +248,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/topology.py">
+    <entry file="file://$PROJECT_DIR$/HW2.dxf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2461">
-          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="274">
+          <caret line="19029" column="10" selection-start-line="19029" selection-start-column="2" selection-end-line="19029" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Constants.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topology.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
