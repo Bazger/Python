@@ -1,22 +1,21 @@
 import math
 
 
-def HaarReverse(t, b):
-    if b < 1:
-        return t
-    if b > math.log(len(t), 2):
-        b = math.log(len(t), 2)
-    s = []
-    r = t
-    n = int(pow(2, math.log(len(t), 2) - b))
+def HaarReverse(points, depth):
+    if depth < 1:
+        return points
+    if depth > math.log(len(points), 2):
+        depth = math.log(len(points), 2)
+    seq = []
+    n = int(pow(2, math.log(len(points), 2) - depth))
+    print(n)
     for i in range(0, n):
-        s.append((t[i] + t[n + i]) / math.sqrt(2))
-        s.append((t[i] - t[n + i]) / math.sqrt(2))
-    for i in range(0, len(s)):
-        r[i] = s[i]
-    r = HaarReverse(r, b - 1)
-    return r
+        seq.append((points[i] + points[n + i]) / math.sqrt(2))
+        seq.append((points[i] - points[n + i]) / math.sqrt(2))
+    for i in range(0, len(seq)):
+        points[i] = seq[i]
+    return HaarReverse(points, depth - 1)
 
 
-t = [2, 6, 4, 8, 2, 8, 4, 9]
-print(HaarReverse(t, 2))
+test_points = [2, 6, 4, 8, 2, 8, 4, 9]
+print(HaarReverse(test_points, 2))
